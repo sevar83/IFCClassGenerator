@@ -1,0 +1,4 @@
+preamble() ::= <<
+$licence()$
+
+>>

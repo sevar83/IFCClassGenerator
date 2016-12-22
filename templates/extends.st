@@ -1,0 +1,1 @@
+extends(type) ::= "$if(type.superType)$extends $type.superType.id$ $else$extends IfcBase $endif$"

@@ -1,0 +1,1 @@
+class(type) ::= "$if(type.abstract)$abstract $endif$class $type.id$"

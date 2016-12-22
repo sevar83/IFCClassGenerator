@@ -1,0 +1,3 @@
+privateAttributeName(string) ::= <<
+$decapitalizeFirstLetter(string)$
+>>

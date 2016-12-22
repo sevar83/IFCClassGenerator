@@ -1,0 +1,3 @@
+publicAttributeName(string) ::= <<
+$capitalizeAndAddUnderscores(string)$
+>>
